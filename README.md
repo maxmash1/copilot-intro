@@ -138,10 +138,4 @@ This workshop provides:
 3. **Review Suggestions**: Always verify Copilot's code suggestions
 4. **Iterate**: If the first suggestion isn't perfect, try rephrasing or providing more context
 
-### Documentation Links
-- [Copilot Chat Overview](https://docs.github.com/en/copilot/github-copilot-chat/about-github-copilot-chat)
-- [Using Copilot Chat](https://docs.github.com/en/copilot/github-copilot-chat/using-github-copilot-chat)
-- [Copilot Chat Commands](https://docs.github.com/en/copilot/github-copilot-chat/using-github-copilot-chat-in-your-ide)
-- [Using Copilot Chat on GitHub.com](https://docs.github.com/en/copilot/github-copilot-chat/using-github-copilot-chat-on-githubcom)
-
 Remember: GitHub Copilot is a powerful tool, but it's important to review and understand the code it generates. Always test the suggestions and ensure they meet your project's requirements and standards.
