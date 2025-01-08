@@ -16,6 +16,7 @@ To get started, ensure you have:
 Copilot Chat is available in two environments:
 1. In your IDE for direct coding assistance - [Chat](https://docs.github.com/en/enterprise-cloud@latest/copilot/using-github-copilot/asking-github-copilot-questions-in-your-ide), [Code completion](https://docs.github.com/en/enterprise-cloud@latest/copilot/using-github-copilot/getting-code-suggestions-in-your-ide-with-github-copilot).
 2. On [GitHub.com for repository, pull request, issues, discussions](https://docs.github.com/en/enterprise-cloud@latest/copilot/using-github-copilot/asking-github-copilot-questions-in-github).
+   - This can also be accomplished in the IDE with @github [skills](https://docs.github.com/en/enterprise-cloud@latest/copilot/using-github-copilot/asking-github-copilot-questions-in-your-ide#using-github-skills-for-copilot)
 
 ### Copilot Chat in Your IDE
 
